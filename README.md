@@ -1,2 +1,2 @@
 # videoeditorcv
-video editor cv
+josepartza.github.io/videoeditorcv
