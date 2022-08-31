@@ -1,2 +1,2 @@
 # videoeditorcv
-josepartza.github.io/videoeditorcv
+https://josepartza.github.io/videoeditorcv
